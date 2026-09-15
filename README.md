@@ -33,9 +33,9 @@ During physical assembly, a defective batch of BC547 transistors caused instabil
 
 ## Repository Contents
 
-- `report.pdf` — full submitted lab report
-- `/schematics` — Proteus circuit diagrams for each module
-- `/hardware` — breadboard build photos
+- [`report.pdf`](report.pdf) — full submitted lab report
+- [`/schematics`](schematics/) — Proteus circuit diagrams for each module
+- [`/hardware`](hardware/) — breadboard build photos
 
 ## Tools Used
 
